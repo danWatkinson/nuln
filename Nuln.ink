@@ -1,10 +1,10 @@
-INCLUDE utils
-INCLUDE Chapter 1
-INCLUDE Chapter 2
-INCLUDE Chapter 3
-INCLUDE Chapter 4
-INCLUDE Chapter 5
-INCLUDE Chapter 6
+INCLUDE utils.ink
+INCLUDE Chapter 1.ink
+INCLUDE Chapter 2.ink
+INCLUDE Chapter 3.ink
+INCLUDE Chapter 4.ink
+INCLUDE Chapter 5.ink
+INCLUDE Chapter 6.ink
 
 -> Chapter_1 -> // So, This is Nuln
 -> Chapter_2 -> // Settling In
