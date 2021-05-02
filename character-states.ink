@@ -19,5 +19,9 @@ VAR YOUR_GREGARIOUSNESS = LONER
 === function setCharacterIsLoner ===
 ~ YOUR_GREGARIOUSNESS = LONER
 
+=== function loner ===
+    ~ return YOUR_GREGARIOUSNESS == LONER
+
 === function setCharacterIsGregarious ===
 ~ YOUR_GREGARIOUSNESS = GREGARIOUS
+
