@@ -5,6 +5,8 @@ INCLUDE Chapter 3.ink
 INCLUDE Chapter 4.ink
 INCLUDE Chapter 5.ink
 INCLUDE Chapter 6.ink
+INCLUDE character-states.ink
+
 
 -> Chapter_1 -> // So, This is Nuln
 -> Chapter_2 -> // Settling In
